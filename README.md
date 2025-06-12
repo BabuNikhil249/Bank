@@ -35,5 +35,6 @@ Explain how to access and use the application.
 3. Sign up or log in to get started.
 
 
-![image alt](https://github.com/BabuNikhil249/Bank/blob/main/Screenshot%202025-06-12%20225436.png?raw=true)
+![Login Screenshot](https://github.com/BabuNikhil249/Bank/blob/main/login.png?raw=true)
+
 
