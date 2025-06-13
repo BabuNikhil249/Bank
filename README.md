@@ -34,7 +34,7 @@ Explain how to access and use the application.
 2. Open browser and go to `http://localhost:8080/Bank/Login.jsp`.
 3. Sign up or log in to get started.
 
-## images
+**## Features**
 
 ![Screenshot 2025-06-12 225436](https://github.com/user-attachments/assets/0cf31b0c-8b09-41f4-a7c3-9b68468a5dc1)
 
