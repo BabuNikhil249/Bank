@@ -36,41 +36,27 @@ Explain how to access and use the application.
 
 **## Features**
 
-![Screenshot 2025-06-12 225436](https://github.com/user-attachments/assets/0cf31b0c-8b09-41f4-a7c3-9b68468a5dc1)
+![Image](https://github.com/user-attachments/assets/8bada8ea-5257-4f2d-9fe3-75d1a3bcdc13)
 
-![Screenshot 2025-06-12 225436 - Copy](https://github.com/user-attachments/assets/fbda06a7-adde-46f7-acad-11c1d2f0c157)
+![Image](https://github.com/user-attachments/assets/49a64b6f-d941-4e11-a574-0ed7fb326062)
 
+![Image](https://github.com/user-attachments/assets/5862b634-2dda-49f3-99d8-65aa0d7232e7)
 
+![Image](https://github.com/user-attachments/assets/6d85475e-1036-495a-954f-154481aab7cd)
 
-![Screenshot 2025-06-12 225527](https://github.com/user-attachments/assets/9a8d0aaa-724a-465d-b545-76b8289128a6)
+![Image](https://github.com/user-attachments/assets/8d3a7125-a72a-4d27-b20d-5fa590d01bb1)
 
+![Image](https://github.com/user-attachments/assets/355a5472-a1ae-4682-8283-2d30dfc0df50)
 
-
-
-![Screenshot 2025-06-12 225714](https://github.com/user-attachments/assets/7ce26e20-a8ef-427f-a554-e94c28401189)
-
-
-
-
-![Screenshot 2025-06-12 225714](https://github.com/user-attachments/assets/f6789d00-e7ca-4269-b276-50925a5faa2d)
+![Image](https://github.com/user-attachments/assets/89d0e04e-f79f-4e5a-8e75-94334daa845f)
 
 
+![Image](https://github.com/user-attachments/assets/4f577209-1b96-46c0-825b-baf2e4f08200)
 
 
-![Screenshot 2025-06-12 225802](https://github.com/user-attachments/assets/a4153963-948d-446d-a781-5b0c2c751bae)
+![Image](https://github.com/user-attachments/assets/9f057aeb-c21d-4dda-a980-8957eaf4f659)
 
 
 
-![Screenshot 2025-06-12 225802](https://github.com/user-attachments/assets/86d4c4d8-9dbc-4b55-aba8-187f218a20db)
-
-
-
-![Screenshot 2025-06-12 225829](https://github.com/user-attachments/assets/e72f4067-0cae-4aff-ac1b-de9623d82bd4)
-
-
-![Screenshot 2025-06-12 225900](https://github.com/user-attachments/assets/51e78288-5da6-49ed-a2fa-d8c81bd9ce1f)
-
-
-
-![Screenshot 2025-06-12 230032](https://github.com/user-attachments/assets/640c0d6e-f02e-42f3-adb6-9f0fbf420b68)
+![Image](https://github.com/user-attachments/assets/1f1291b2-c059-4582-aae9-57874703280a)
 
